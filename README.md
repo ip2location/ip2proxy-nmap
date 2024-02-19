@@ -1,6 +1,6 @@
 ## IP2Proxy Nmap script
 
-This IP2Proxy Nmap script allows user to query an IP address if it was being used as VPN anonymizer, open proxies, web proxies, Tor exits, data center, web hosting (DCH) range, search engine robots (SES) and residential (RES) by using the IP2Proxy Lua Package. 
+This IP2Proxy Nmap script allows user to query an IP address if it was being used as VPN anonymizer, open proxies, web proxies, Tor exits, data center, web hosting (DCH) range, search engine robots (SES), residential proxies (RES), consumer privacy networks (CPN), and enterprise private networks (EPN) by using the IP2Proxy Lua Package. 
 
 The database will be updated on a monthly basis for greater accuracy. Free LITE databases are available at <https://lite.ip2location.com/> upon registration.
 
@@ -50,4 +50,4 @@ Indicates the path of the database file to use.
 
 # Copyright
 
-Copyright (C) 2022 by IP2Location.com, [support@ip2location.com](mailto:support@ip2location.com)
+Copyright (C) 2024 by IP2Location.com, [support@ip2location.com](mailto:support@ip2location.com)
