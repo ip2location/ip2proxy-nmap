@@ -50,4 +50,4 @@ Indicates the path of the database file to use.
 
 # Copyright
 
-Copyright (C) 2024 by IP2Location.com, [support@ip2location.com](mailto:support@ip2location.com)
+Copyright (C) 2024-2026 by IP2Location.com, [support@ip2location.com](mailto:support@ip2location.com)
